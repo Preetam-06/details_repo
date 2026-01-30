@@ -91,6 +91,8 @@ Designed for **scalable architecture**, **clean UI**, and **high-impact judge de
 
 ---
 
-## 🧠 Winning Formula
-**Simple idea + strong logic + clean UI + honest GitHub history  
-= Hackathon-ready, judge-impressive product**
+## 📘 Team & Development Docs
+
+For internal development rules and workflows, see:
+- `GUIDELINES.md` – Team rules and development discipline
+- `GIT_WORKFLOW.md` – Git branching and collaboration workflow
