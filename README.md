@@ -13,52 +13,52 @@ Designed for **scalable architecture**, **clean UI**, and **high-impact judge de
 ---
 
 ## 🌐 Frontend
-- **React** – Component-based UI
-- **Tailwind CSS** – Utility-first responsive styling
-- **Axios** – API communication
-- **React Router** – Client-side routing
+- **React** – https://react.dev | https://react.dev/learn  
+- **Tailwind CSS** – https://tailwindcss.com | https://tailwindcss.com/docs  
+- **Axios** – https://axios-http.com  
+- **React Router** – https://reactrouter.com  
 
 ---
 
 ## 🧩 Backend
-- **Django** – Authentication, users, admin, base APIs
-- **Django REST Framework** – API layer
-- **FastAPI** – Core logic / decision engine
-- **Python AI/ML Integration** – OpenAI, Pandas, Plotly
+- **Django** – https://www.djangoproject.com | https://docs.djangoproject.com  
+- **Django REST Framework** – https://www.django-rest-framework.org  
+- **FastAPI** – https://fastapi.tiangolo.com | https://fastapi.tiangolo.com/tutorial  
+- **Pydantic** – https://docs.pydantic.dev  
 
 ---
 
 ## 🗄 Database
-- **PostgreSQL** – Primary relational database
-- **MongoDB (Optional)** – Logs / unstructured or experimental data
+- **PostgreSQL** – https://www.postgresql.org | https://www.postgresql.org/docs  
+- **MongoDB (Optional)** – https://www.mongodb.com | https://www.mongodb.com/docs  
 
 ---
 
 ## 🤖 AI / ML
-- **OpenAI API** – AI-powered analysis and reasoning
-- **Hugging Face** – NLP / ML models
-- **Pandas / NumPy** – Data processing
-- **Plotly** – Interactive data visualization
+- **OpenAI API** – https://platform.openai.com | https://platform.openai.com/docs  
+- **Hugging Face** – https://huggingface.co | https://huggingface.co/docs  
+- **Pandas** – https://pandas.pydata.org | https://pandas.pydata.org/docs  
+- **NumPy** – https://numpy.org | https://numpy.org/doc  
+- **Plotly** – https://plotly.com/python  
 
 ---
 
 ## 📊 Data Analysis & Visualization
-- **Pandas / NumPy**
-- **Plotly**
-- **Matplotlib / Seaborn**
+- **Matplotlib** – https://matplotlib.org | https://matplotlib.org/stable  
+- **Seaborn** – https://seaborn.pydata.org  
 
 ---
 
 ## ☁️ Deployment
-- **Docker** – Containerized services
-- **Railway** – Backend deployment
-- **Render** – API / frontend hosting
+- **Docker** – https://www.docker.com | https://docs.docker.com  
+- **Railway** – https://railway.app | https://railway.app/docs  
+- **Render** – https://render.com | https://render.com/docs  
 
 ---
 
 ## 🧪 Dev & Testing
-- **Postman** – API testing
-- **VS Code** – Development environment
+- **Postman** – https://www.postman.com | https://learning.postman.com/docs  
+- **VS Code** – https://code.visualstudio.com | https://code.visualstudio.com/docs  
 
 ---
 
